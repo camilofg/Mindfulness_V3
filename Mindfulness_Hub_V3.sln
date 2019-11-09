@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mindfulness_Hub_V3", "Mindfulness_Hub_V3.csproj", "{12D205AC-594C-4922-8A94-C5E280C90ACD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mindfulness", "Mindfulness", "{F8183300-FB4D-46A5-A354-D4A0A57BBC50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12D205AC-594C-4922-8A94-C5E280C90ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D205AC-594C-4922-8A94-C5E280C90ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D205AC-594C-4922-8A94-C5E280C90ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D205AC-594C-4922-8A94-C5E280C90ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{12D205AC-594C-4922-8A94-C5E280C90ACD} = {F8183300-FB4D-46A5-A354-D4A0A57BBC50}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68E1316A-7FF1-4B0F-9BC5-B7001DB25A0F}
+	EndGlobalSection
+EndGlobal
